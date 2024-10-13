@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## I'm a student at Tokyo University of Science.
+
+My interests:
+- Web frontend dev
+- Web backend dev
+- Mobile app dev
 <!--
 **Ash1ey18/Ash1ey18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
